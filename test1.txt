@@ -4,6 +4,10 @@
 	Batch 2
 ===========================
 <<<<<<< HEAD
+DINESH N
+DHANUSH K
+=======
+<<<<<<< HEAD
 123456
 =======
 
@@ -14,3 +18,20 @@ abcdef
 
 
 HELLO
+<<<<<<< HEAD
+
+
+GIT
+
+
+
+
+=======
+<<<<<<< HEAD
+>>>>>>> 03d3d0babf98da953ae4372e8b40ce977c9fe3e1
+=======
+>>>>>>> 3b204a20c2a24b630bea215dd1289855ab301dac
+
+dhanush k
+>>>>>>> f066adee6e8ebf8e79007f3cb1f40b63af605db2
+>>>>>>> ee6e22215926868cb609843676f7b773df09a273
